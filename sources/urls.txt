@@ -1,0 +1,3 @@
+http://asintec.net/cleantec/android/Asintec.CleanTEC.apk file1.apk
+http://10.130.52.22:8081/apps/cleantec.apk file2.apk
+http://194.224.246.87:8081/apps/cleantec.apk file2.apk
