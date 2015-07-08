@@ -5,10 +5,10 @@ This tool is thought to be run periodically as a cron job. It would take the URL
 
 ## Command usage
 
-'''
-java -jar remote-file-updater.jar <urls-text-file>
-'''
+```
+    java -jar remote-file-updater.jar <urls-text-file>
+```
 
 ## Downloads
 
-* [JAR Runnable File](https://github.com/luixal/remote-file-updater/blob/master/downloads/remote-file-updater.rar)
+* [JAR Runnable File](https://github.com/luixal/remote-file-updater/blob/master/downloads/remote-file-updater.jar)
